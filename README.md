@@ -1,3 +1,3 @@
 healthManager
 =============
-Hallo foks. The program's are all in beta.
+Hallo folks. The program's are all in beta.
